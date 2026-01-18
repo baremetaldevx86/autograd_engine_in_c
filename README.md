@@ -33,7 +33,6 @@ autograd_engine/
 ├── optim.h # Optimizer API
 ├── optim.c # SGD optimizer
 ├── main.c # Training loop
-'''
 
 Each module mirrors how real ML frameworks are structured internally.
 
